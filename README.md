@@ -12,7 +12,7 @@ This is a program that converts a dollar amount to the number of coins that make
 http-server -p 9999
 
 ```
-then navigate to https://localhost:9999 in your browser.
+then navigate to (http://localhost:9999) in your browser.
 
 ## Contributors
 - [Jennifer Dutton](https://github.com/jduttondesign)
